@@ -1,3 +1,6 @@
+### Test Case ID
+SB-1
+
 ### Test Case Name
 テストケースA
 
